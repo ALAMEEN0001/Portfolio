@@ -1,0 +1,283 @@
+.nav{
+display: flex;
+justify-content: space-between;
+}
+
+.nav-bar ul{
+display: flex;
+justify-content: space-between;
+margin-left: 49px;
+margin-top: 37px;
+margin-right: 50px;
+}
+.nav-bar li{
+list-style-type: none ;
+margin-left: 30px;
+}
+.line{
+width:1100px;
+float:left;
+color: black;
+border: 1px solid black;
+}
+.nav-bar a{
+color: black;    
+}
+.img{
+margin-left: 49px;
+margin-top: 37px;
+}
+.h{
+font-family:Calibri;
+margin-top: 40px;
+
+}
+.contact{
+width: 100%;
+height: 609px;
+margin-left: 100px;
+justify-content: center;
+}
+.boxes{
+height: 400px;
+width: 100%;
+
+display: flex;
+}
+.box1{
+   
+height: 200px;
+width: 350px;    
+margin-top: 100px;
+
+
+}
+.text1{
+    width: 340px;
+    font-family:Calibri;
+    font-size: large;
+}
+.text2{
+    width: 340px;
+    font-family:Calibri;
+    font-size: large;
+    margin-top: 30px;
+}
+.text2 a{
+   
+    color: black;
+}
+.box2{
+    height: 330px;
+    width: 450px;    
+    margin-top: 70px;
+    margin-left: 150px;
+    
+    
+    }
+.box2 p{
+font-family: Calibri;
+}    
+.in{
+height: 20px; 
+width: 170px;
+display: flex;   
+}
+.ip{
+    width: 200px;
+}
+.in input{
+border: 2px solid black;
+width: 200px;
+}
+.ip2{
+margin-left: 40px;
+text-decoration-thickness: 2px;
+}
+.ip2 input{
+border: 2px solid black;
+}
+.box3{
+    display: flex;
+width: 450px;
+height: 40px;
+}
+.mail{
+margin-left: 186px
+}
+
+.ip3 input{
+border: 2px solid black;
+width: 200px;    
+}
+.line1{
+display: flex;
+}
+.ip4 input{
+    border: 2px solid black;
+    width: 200px;   
+    margin-left: 32px;
+    text-align: start;    
+}
+.ip5 input{
+    border: 2px solid black;
+    width: 440px;
+    height: 100px;    
+}
+
+.line3{
+    display: flex;
+}
+.but{
+    width: 35px;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.but a{
+    text-decoration: none;
+    color: black;
+}
+.boxes2{
+    margin-top: 80px;
+}
+.Testimonial{
+    display: flex;
+    width: 1000px;
+   
+    height: 200px;
+    margin-left: 200px;
+}
+.TEXT{
+    width: 400px;
+    font-family: Calibri;
+    font-size: large;
+    text-align: center;
+    margin: 40px;
+    padding-bottom: 50px;
+    padding-top: 150px;
+}
+.left{
+    padding-top: 200px;
+    width: 59px;
+    height: 59px;
+}
+.right{
+    padding-top: 200px;
+    width: 59px;
+    height: 59px;
+}
+.namew{
+    width: 130px;
+    font-family: Calibri;
+    text-align: center;
+    padding-top: 100px;
+   padding-left: 450px;
+}
+.blog{
+    height: 342.42114px;
+    width: auto;
+}
+.recent{
+    text-align: center;
+    font-size: x-large;
+    font-family: Calibri;
+    padding-top: 50px;
+}
+.line2 hr{
+    width:1100px;
+    float:left;
+    color: black;
+    border: 1px solid black;
+    
+}
+.text3{
+width: 200px;
+border-right: 2px solid black;
+padding-right: 50px;
+}
+.blog1t a{
+color: black;
+padding-right: 10px;
+}
+.text4{
+    width: 200px;
+    border-right: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.blog4t a{
+    color: black;
+    padding-right: 10px;
+}
+.text5{
+    width: 200px;
+    border-right: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.blog5t a{
+    color: black;
+    padding-right: 10px;
+}
+.texts{
+    display: flex;
+    height: 200px;
+    justify-content: center;
+}
+
+
+
+.join{
+    margin-left: 400px;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: xx-large;
+font-family: Calibri;
+}
+
+.list5 li{
+display: flex;
+list-style-type: none;
+margin-right: 3px;
+}
+.logos ul{
+    display: flex;
+ margin-left: 1000px;
+}
+.sub{
+    text-align: center;
+    width: 400px;
+    font-family: Calibri;
+    padding-left: 300px;
+}
+.news input{
+    border: 2px solid black;
+    margin-left: 350px;
+    width: 300px;
+    height: 27px;
+}
+.puts{
+    display: flex;
+    height: 30px;
+}
+
+.g{
+    color: lightgray;
+    font-family: Calibri;
+    font-size: small;
+    margin-left: 350px;
+}
+.blind hr{
+    border: 2px solid black;
+    width: 100%;
+}
+.footer{
+    margin-top: 1000px;
+}
+.img2{
+    display: flex;
+}
+.list5 a{
+    display: flex;
+    color: black;
+}
